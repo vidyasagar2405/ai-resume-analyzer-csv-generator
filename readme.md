@@ -123,4 +123,4 @@ python -m streamlit run app.py
 
 ---
 ## Demo video
-### [video](https://youtu.be/v59zJBFJB0Y)
+### [video](https://youtu.be/pdLjBs2CsNY)
