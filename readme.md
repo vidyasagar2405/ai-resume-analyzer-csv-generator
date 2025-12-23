@@ -55,6 +55,12 @@ Download via Streamlit
 
 ---
 
+## Application UI
+<img width="916" height="483" alt="Interface of resume analyzer" src="https://github.com/user-attachments/assets/d0e6343f-6f98-4140-81c0-971bb959a703" />
+
+
+
+---
 ## 🛠️ Tech Stack
 
 * **Python**
